@@ -1,4 +1,4 @@
-## Practice your sql skills with [sql-ex.ru](sql-ex.ru)
+## Practice your sql skills with [sql-ex.ru](http://www.sql-ex.ru)
 
 This repo provides postgres with all [tables](http://sql-ex.ru/help/select13.php#db_1) needed for exercises.
 
