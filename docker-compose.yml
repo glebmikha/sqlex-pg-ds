@@ -3,7 +3,7 @@ services:
   this_jupyter:
     build: ./docker/jupyter/
     volumes:
-      - .:/home/jovyan/
+      - .:/home/jovyan/work
     ports:
       - 8888:8888
   this_postgres:
